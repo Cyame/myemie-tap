@@ -35,6 +35,6 @@
 
 根据原音乐作品创作者要求，本作品仅用于非盈利的公共使用用途。
 
-为此，本仓库全部工作将依照CC0 1.0协议开源。
+因此本仓库全部二次开发工作将依照CC0 1.0协议开源。
 
 具体详见[License](https://github.com/Cyame/myemie-tap/blob/main/LICENSE)。
